@@ -1,0 +1,24 @@
+[
+  {
+    "id":"Rainbow-Six-Siege-2015",
+    "title" : "Rainbow Six Siege",
+    "genre" : "Horror",
+    "type" : "FPS",
+    "cover_art" : "https://upload.wikimedia.org/wikipedia/en/4/47/Tom_Clancy%27s_Rainbow_Six_Siege_cover_art.jpg"
+  },
+    {
+    "id":"Rocket-League-2015",
+    "title" : "Rocket League",
+    "genre" : "Sports",
+    "type" : "Competitive",
+    "cover_art" : "https://rocketleague.media.zestyio.com/RLUE-Cover-Art-1080.jpg"
+  },  
+  {
+    "id":"Lethal-Company-2023",
+    "title" : "Lethal Company",
+    "genre" : "Horror",
+    "type" : "First Person",
+    "cover_art" : "https://cdn.akamai.steamstatic.com/steam/apps/1966720/capsule_616x353.jpg?t=1700231592"
+  }
+  
+]
