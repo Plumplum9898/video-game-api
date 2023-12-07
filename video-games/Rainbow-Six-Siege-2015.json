@@ -1,0 +1,7 @@
+{
+  "title" : "Rainbow Six Siege",
+  "score" : 9,
+  "release_date" : "2015",
+  "genre" :[ "first-person shooter", "sci-fi", "playstation"],
+  "publisher" : {"name" : "Ubisoft", "location": "Florida"} 
+}
