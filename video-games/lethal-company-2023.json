@@ -1,0 +1,7 @@
+{
+  "title" : "Lethal Company",
+  "score" : 8,
+  "release_date" : "2023",
+  "genre" :[ "horror", "first person" ],
+  "publisher" : {"name" : " Zeekerss", "location": "India"} 
+}
